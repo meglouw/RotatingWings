@@ -1,2 +1,0 @@
-# RotatingWings
-Created with CodeSandbox
